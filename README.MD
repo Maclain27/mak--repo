@@ -1,1 +1,1 @@
-# add some test in git information command!
+# add some test in git information command.
